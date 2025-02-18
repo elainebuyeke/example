@@ -1,9 +1,14 @@
 *{
-    color: aqua;
+    color: navy;
 }
 h1{
-    color: aquamarine;
+    color: royalblue;
 }
 h3{
-    color: azure;
+    color: black;
+}
+img{
+    height:100px;
+    width: 100px;
+    border-radius: 100%;
 }
